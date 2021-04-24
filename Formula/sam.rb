@@ -4,9 +4,9 @@
 class Sam < Formula
     desc "sam lets you difine custom aliases and search them using fuzzy search."
     homepage "https://github.com/r-zenine/sam"
-    url "https://github.com/r-zenine/sam/releases/download/v0.9.1/sam_macos_x86_64_v0.9.1.tar.gz"
-    sha256 "898f03df5df0b7d3ce998d65c809f430e3eb59f20db0f4620cb78bf66a46e772"
-    version "0.9.1"
+    url "https://github.com/r-zenine/sam/releases/download/v0.10.0/sam_macos_x86_64_v0.10.0.tar.gz"
+    sha256 "745f0577cbbb96b3453b9c3bb4baf29fbadf89c21be355dc7d7f361cdb2be5ab"
+    version "0.10.0"
   
     def install
       bin.install "sam"
