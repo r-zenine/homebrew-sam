@@ -4,8 +4,6 @@ class Sam < Formula
   version ""
   license "GPL-3.0-only"
 
-  bottle :unneeded
-
   if Hardware::CPU.intel?
     url "https://github.com/r-zenine/sam/releases/download/v/sam_macos_x86_64_v.tar.gz"
     sha256 ""
