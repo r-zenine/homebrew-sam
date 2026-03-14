@@ -1,2 +1,2 @@
 # homebrew-sam
-homebrew formula for r-zenine/ssam
+homebrew formula for r-zenine/sam
